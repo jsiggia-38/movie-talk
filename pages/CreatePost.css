@@ -1,0 +1,28 @@
+.CreatePosts {
+    display: grid;
+}
+
+.create-form {
+    text-align: center;
+}
+
+.create-label {
+    color: white;
+}
+
+.create-input {
+    border-radius: 15px;
+    padding-left: 5px;
+    width: 250px;
+    
+}
+
+.create-submit {
+    border-radius: 15px;
+}
+
+.create-submit:hover {
+    cursor: pointer;
+    transform: scale(1.20);
+
+}

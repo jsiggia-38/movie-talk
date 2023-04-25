@@ -1,0 +1,64 @@
+.edit-form {
+    text-align: center;
+}
+
+.edit-label {
+    color: white;
+}
+
+.edit-input {
+    border-radius: 15px;
+    padding-left: 5px;
+    width: 250px;
+    
+}
+
+.comments-section {
+    text-align: center;
+    color: white;
+}
+
+.comment {
+    margin-top: 15px;
+    background-color: black;
+    height: 30px;
+    padding-top: 15px;
+}
+
+.comment-field {
+    border-radius: 15px;
+    padding-left: 5px;
+    width: 150px;
+}
+
+.comment-submit {
+    border-radius: 15px;
+}
+
+.comment-submit:hover {
+    cursor: pointer;
+    transform: scale(1.20);
+}
+
+.comments-list {
+    list-style: none;
+}
+
+.edit-submit {
+    border-radius: 15px;
+}
+
+
+.edit-submit:hover {
+    cursor: pointer;
+    transform: scale(1.20);
+}
+
+.deleteButton {
+    border-radius: 15px;
+}
+
+.deleteButton:hover {
+    cursor: pointer;
+    transform: scale(1.20);
+}
